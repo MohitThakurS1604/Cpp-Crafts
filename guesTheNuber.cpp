@@ -8,6 +8,7 @@ A simple game to guess the number generate by the computer ( made by uing C++ )
 #include <cstdlib>
 #include <ctime>
 
+//
 int main()
 {
 
